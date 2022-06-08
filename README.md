@@ -32,7 +32,7 @@ python landscape.py --exp-name <After searching, your experiment directory>
 
 --bench-data *(location of the benchmark corpus)* : Path for downloaded nas bench 201 benchmark file.
 
---unrolled *(use one-step unrolled validation loss)* : If you add this, you use 2nd order gradient approximation.
+--unrolled : If you add this, you use 2nd order gradient approximation.
 
 --perturb_alpha random : Use perturbation for architecture parameters. If you add this, you use SDARTS algorithm for architecture search.
 
