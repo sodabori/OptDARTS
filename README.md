@@ -1,5 +1,5 @@
 # OptDARTS
-This repository contains the code used in the **experimentation of Optimizer Combination Analysis for Differentiable Neural Architecture Search** as a project of Spring 2022 CSED 490Y.
+This repository contains the code used in the **experiments of Optimizer Combination Analysis for Differentiable Neural Architecture Search** as a project of Spring 2022 CSED 490Y.
 
 ## Requirements
 - python 3.10.4
